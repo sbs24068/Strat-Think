@@ -1,2 +1,2 @@
 # Strat-Think
-Strategic Thinking Assignment
+Strategic Thinking Assignment - this repository belongs to Strategic Thinking module
